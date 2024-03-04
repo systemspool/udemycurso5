@@ -1,6 +1,5 @@
 package com.jesus.cursospringboot.app.interceptor.springbootinterceptor.controllers;
 
-import java.util.Collection;
 import java.util.Collections;
 import java.util.Map;
 
